@@ -136,8 +136,9 @@ This residual-based view is the key insight the dashboard adds beyond the R anal
 ```
 ├── scripts/        # R scripts used for analysis
 ├── plots/          # Exported plots from R
-├── powerbi/         # Power BI (.pbix) file and dashboard screenshots
-└── README.md        # This file
+├── python/         # Python notebook cross-validating the R statistical results
+├── powerbi/        # Power BI (.pbix) file and dashboard screenshots
+└── README.md       # This file
 ```
 
 ## 🔁 How to Reproduce
